@@ -6,7 +6,7 @@ import java.util.Comparator;
 public class Main {
 
     private static final int POPULACAO_TAMANHO = 50;
-    private static final int GERACOES = 100000;
+    private static final int GERACOES = 1000;
     private static final double TAXA_MUTACAO = 0.15;
 
     private static final Random random = new Random();
